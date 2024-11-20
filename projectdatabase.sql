@@ -98,3 +98,6 @@ INSERT INTO DataSharingConsent (user_id, provider_id, shared_data)
 VALUES 
 (1, 1, 'heart_rate, steps'),
 (2, 2, 'calories, sleep_duration');
+
+
+0000
